@@ -3,7 +3,9 @@
 
 ## Summary
 ---
-<p>My name is Brandon Juarez Fernandez. I'm a website designer who likes to create the UI/UX (User interface) of websites. I'd like to go to college possibly Computer Engineering. I am currently working on a website for a School Class to advertise and entice people to join the ranks.</p>
+<p>My name is Brandon Juarez Fernandez. I'm a website designer who likes to create the UI/UX (User interface) of websites. I'd like to go to college possibly Computer Engineering. I am currently working on a website for a School Class to advertise and entice people to join the ranks. The website is currently under work in progress.jf-brandon23.github.io</p>
+
+<a ref="jf-brandon23.github.io">
 
 [1]:https://www.newsweek.com/coffee-world-records-national-coffee-day-378155
 ## Hobbies
