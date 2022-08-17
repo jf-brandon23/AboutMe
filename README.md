@@ -47,8 +47,8 @@ _**Excellence is not an act but a Habit**_
 ## Persons of Interest
  - [CEO of Old National](https://ir.oldnational.com/corporate-information/officers-directors/default.aspx)
  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXcXf_plV3bTzSRAhRQ6F9GXjwTl6A9EwWhGPbZJATFI_pIYiFOX1neaJ1pmRIPqlytzs&usqp=CAU">
- - [InGen Technologies, Inc.](https://www.linkedin.com/company/ingentek?trk=public_profile_topcard-current-company)
- - <img src="https://www.ingentek.com/">
+ - [CEO of InGen Technologies, Inc.](https://www.linkedin.com/company/ingentek?trk=public_profile_topcard-current-company)
+ - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1fS_e5PX9-y1AbpHxKCwNb4mDAC8XrRuOiQ&usqp=CAU">
 
 ## Favorite Terms
 ---
