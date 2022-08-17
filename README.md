@@ -43,7 +43,7 @@ _**Excellence is not an act but a Habit**_
 
 ## Persons of Interest
  - [CEO of Old National](https://ir.oldnational.com/corporate-information/officers-directors/default.aspx)
- - <img src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fml.globenewswire.com%2Fmedia%2F99cc5e95-5470-4c80-8b40-a07f244e6594%2Fmedium%2Fjim-ryan.jpg&imgrefurl=https%3A%2F%2Fir.oldnational.com%2Fnews-events%2Fpress-releases-news%2Fnews-details%2F2020%2FOld-National-names-CEO-Jim-Ryan-as-new-Chairman%2Fdefault.aspx&tbnid=8re8QF0u1oLEWM&vet=12ahUKEwj61I6kqs75AhVFhVMKHSwJDPQQMygAegUIARC5AQ..i&docid=HQEGOZqoFNCUQM&w=240&h=300&q=ceo%20of%20old%20national%20bank&ved=2ahUKEwj61I6kqs75AhVFhVMKHSwJDPQQMygAegUIARC5AQ](https://ir.oldnational.com/corporate-information/officers-directors/default.aspx)">
+ - <img src="https://ir.oldnational.com/corporate-information/officers-directors/default.aspx">
 
 ## Favorite Terms
 ---
