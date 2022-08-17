@@ -45,7 +45,7 @@ _**Excellence is not an act but a Habit**_
  - [CEO of Old National](https://ir.oldnational.com/corporate-information/officers-directors/default.aspx)
  - <img src="">
  - [InGen Technologies, Inc.](https://www.linkedin.com/company/ingentek?trk=public_profile_topcard-current-company)
- - <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC560BAQEs5w2VbDcMig%2Fcompany-logo_200_200%2F0%2F1519892849211%3Fe%3D2147483647%26v%3Dbeta%26t%3Dbh_NfScoUC97Sfgqc4P69Ff1673_Q8wmdX0WEn-RXhI&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fingentek&tbnid=WJngupYLvFeTfM&vet=12ahUKEwjL6dzAqs75AhUOoFMKHb5CD2oQMygCegQIARBD..i&docid=cirCiYQucPZFeM&w=200&h=200&q=ingen%20technologies%20ceo&ved=2ahUKEwjL6dzAqs75AhUOoFMKHb5CD2oQMygCegQIARBD">
+ - <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.website-files.com%2F6077135df60fc80bec0df660%2F60cb909efba85c340f8f553f_ingen-creativesoftware-logo.png&imgrefurl=https%3A%2F%2Fwww.ingentek.com%2F&tbnid=HobRYIcjD31GuM&vet=12ahUKEwjL6dzAqs75AhUOoFMKHb5CD2oQMygIegQIARBQ..i&docid=dDBsm_l3HcH9HM&w=1259&h=261&q=ingen%20technologies%20ceo&ved=2ahUKEwjL6dzAqs75AhUOoFMKHb5CD2oQMygIegQIARBQ">
 
 ## Favorite Terms
 ---
