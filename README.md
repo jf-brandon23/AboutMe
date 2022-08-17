@@ -41,7 +41,7 @@ _**Excellence is not an act but a Habit**_
 - [Car-puccino](https://www.newsweek.com/coffee-world-records-national-coffee-day-378155)
 - <img src="https://imgs.search.brave.com/yR7m4P9xFNp5X-HOEtrbUQN28Ks-NYKp90OZaeqgryY/rs:fit:1049:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC56/ZmZyRzlYSXRjOUgz/U3VpME5EQkFRSGFE/VyZwaWQ9QXBp">
  - [Kdenlive](https://kdenlive.org/en/)
- - <img src="https://kdenlive.org/en/features/"
+ - <img src="https://kdenlive.org/en/features/">
 
 
 ## Persons of Interest
