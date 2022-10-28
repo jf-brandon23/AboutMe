@@ -16,17 +16,6 @@ ___
 - Playing Music
 - Coding Websites
 
-### My nighttime routine include:
-
-0. Shower
-1. Eat Supper
-2. Brush Teeth
-3. Go to Bed
-
-## My Philosophy
----
-*To be Early is to be on Time, To be On Time is to be Late, and To be Late is to be Left Behind*- by Band Director
-
 ## Favorite Quotes
 _**Excellence is not an act but a Habit**_
 
