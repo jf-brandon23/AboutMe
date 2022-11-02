@@ -1,0 +1,46 @@
+/*Comment*/
+html, body {
+    /*background-color: thistle;*/
+    background-color: #F5F5F5;
+    color: #2D402D;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+header {
+    background-color: #88CBC4;
+    text-align: center;
+}
+
+h1 {
+    line-height: 200%;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+nav {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #88CBC4;
+    font-size: .60em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+/* Class */
+.studio {
+    color: #40407A;
+    font-style: italic;
+}
+
+#wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+}

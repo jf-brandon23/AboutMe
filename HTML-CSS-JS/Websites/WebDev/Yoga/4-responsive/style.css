@@ -1,0 +1,485 @@
+
+
+/*Comment*/
+
+/* full-screen */
+@media(min-width:1024px){
+
+
+    html, body {
+        margin:0;
+        /*background-color: thistle;*/
+        background-color: #3F2860;
+        color: #40407A;
+        font-family: Verdana, Arial, sans-serif;
+    }
+
+    header {
+        background-image: url(assets/lilyheader.jpg);
+        background-color: #40407A;
+        background-size: 100% 100%;
+        color: #FFF;
+        font-size: 120%;
+        margin-top: 50px;
+        min-height: 200px;
+        align: "right";
+    }
+
+    header a:link{text-decoration: none;display: block;color: #40407A;}
+    header a:visited{text-decoration: none;display: block;color: #40407A;}
+    header a:hover{text-decoration: none;display: block;color: #FFF;}
+
+
+    h1 {
+        line-height: 200%;
+        padding-top: 50px;
+        padding-left: 2em;
+    }
+
+    h2 {
+        font-size: 200%;
+    }
+
+    nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        text-align: center;
+        background-color: #FFF;
+        margin: 0;
+        padding: 0.5em;
+        padding-right: 0;
+        text-decoration: none;
+        width:100%;
+        z-index: 9999;
+    }
+
+    nav a{
+        text-decoration: none;
+        display: block;
+    }
+
+    nav ul{
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: flex-end;
+        list-style-type: none;
+        padding: 0em;
+        font-size: 1.2em;
+    }
+
+    nav li{
+        width: 7em;
+        padding: 0 1em 0 1em;
+        display: inline;
+    }
+
+    nav a:link{color: #3F2860;}
+    nav a:visited{color: #497777}
+    nav a:hover{color: #A26100; border: 3px inset #333333}
+
+    dt {
+        font-weight: bold;
+    }
+
+    footer {
+        background-color: #88CBC4;
+        font-size: .60em;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+    }
+
+
+
+    /* Class */
+    .studio {
+        color: #40407A;
+        font-style: italic;
+    }
+
+    #wrapper {
+        padding: 2em;
+        margin: auto;
+        width: 80%;
+        background-color: #F5F5F5;
+
+    }
+
+    .home {        /* home page, the header will be larger */
+        height: 30vh;
+        padding-left: 8em;
+        padding-top: 5em;
+        }
+
+    .content {      /* other pages, the header will be slightly smaller*/
+        height: 10vh;
+        padding-left: 8em;
+        padding-top: 1em;
+    }
+
+    #mathero {
+        background-image: url("assets/yogamat.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: block;
+        height: 300px;
+        padding-bottom: 1em;
+    }
+
+    #loungehero {
+        background-image: url("assets/yogalounge.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: block;
+        height: 300px;
+        padding-bottom: 1em;
+    }
+
+    #mobile {
+        display: none;
+    }
+
+    #desktop {
+        display: inline;
+    }
+
+    #hero {
+        text-align: center;
+    }
+
+    #section {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+
+
+    #flow {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    /* global property*/
+    * {box-sizing: border-box;}
+
+}
+
+/* half-screen */
+@media(min-width:600px){
+
+
+    html, body {
+        margin:0;
+        /*background-color: thistle;*/
+        background-color: #3F2860;
+        color: #40407A;
+        font-family: Verdana, Arial, sans-serif;
+    }
+
+    header {
+        background-image: url(assets/sunrise.jpg);
+        background-color: #40407A;
+        background-size: 100% 100%;
+        color: #FFF;
+        min-height: 200px;
+        margin-top: 50px;
+        text-align: "right";
+    }
+
+    header a:link{text-decoration: none;display: block;color: #40407A;}
+    header a:visited{text-decoration: none;display: block;color: #40407A;}
+    header a:hover{text-decoration: none;display: block;color: #FFF;}
+
+
+    /* h1 {
+        line-height: 200%;
+        padding-top: 50px;
+        padding-left: 2em;
+    } */
+
+    h2 {
+        font-size: 200%;
+    }
+
+    nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        text-align: center;
+        background-color: #FFF;
+        margin: 0;
+        padding: 0.5em;
+        padding-right: 0;
+        text-decoration: none;
+        width:100%;
+        z-index: 9999;
+    }
+
+    nav a{
+        text-decoration: none;
+        display: block;
+    }
+
+    nav ul{
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: flex-end;
+        list-style-type: none;
+        padding: 0em;
+        font-size: 1.2em;
+    }
+
+    nav li{
+        width: 7em;
+        padding: 0 1em 0 1em;
+        display: inline;
+    }
+
+    nav a:link{color: #3F2860;}
+    nav a:visited{color: #497777}
+    nav a:hover{color: #A26100; border: 3px inset #333333}
+
+    dt {
+        font-weight: bold;
+    }
+
+    footer {
+        background-color: #88CBC4;
+        font-size: .60em;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+    }
+
+
+
+    /* Class */
+    .studio {
+        color: #40407A;
+        font-style: italic;
+    }
+
+    #wrapper {
+        background-color: #F5F5F5;
+        padding: 2em;
+
+    }
+
+    .home {        /* home page, the header will be larger */
+        height: 20vh;
+        padding-left: 10%;
+        padding-top: 2em;
+        }
+
+    .content {      /* other pages, the header will be slightly smaller*/
+        height: 10vh;
+        padding-left: 8em;
+        padding-top: 5em;
+    }
+
+    #mathero {
+        background-image: url("assets/yogamat.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: block;
+        height: 300px;
+        padding-bottom: 1em;
+    }
+
+    #loungehero {
+        background-image: url("assets/yogalounge.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: block;
+        height: 300px;
+        padding-bottom: 1em;
+    }
+
+    #mobile {
+        display: none;
+    }
+
+    #desktop {
+        display: inline;
+    }
+
+    #section {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+
+
+    #flow {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    #clear {
+        clear: both;
+    }
+
+    /* global property*/
+    * {box-sizing: border-box;}
+
+}
+
+@media(max-width:600px){
+
+
+    html, body {
+        margin:0;
+        /*background-color: thistle;*/
+        background-color: #3F2860;
+        color: #40407A;
+        font-family: Verdana, Arial, sans-serif;
+    }
+
+    header {
+        background-image: url(assets/sunrise.jpg);
+        background-color: #40407A;
+        background-size: 100% 100%;
+        color: #FFF;
+        margin-top: 50px;
+        min-height: 200px;
+        text-align: "right";
+    }
+
+    header a:link{text-decoration: none;display: block;color: #40407A;}
+    header a:visited{text-decoration: none;display: block;color: #40407A;}
+    header a:hover{text-decoration: none;display: block;color: #FFF;}
+
+
+    /* h1 {
+        line-height: 200%;
+        padding-top: 50px;
+        padding-left: 2em;
+    } */
+
+    h2 {
+        font-size: 200%;
+    }
+
+    nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        text-align: center;
+        background-color: #FFF;
+        margin: 0;
+        padding: 0.5em;
+        padding-right: 0;
+        text-decoration: none;
+        width:100%;
+        z-index: 9999;
+    }
+
+    nav a{
+        text-decoration: none;
+        display: block;
+    }
+    
+    nav a:link{color: #3F2860;}
+    nav a:visited{color: #497777}
+    nav a:hover{color: #A26100; border: 3px inset #333333}
+    
+    nav ul{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        font-size: 1.2em;
+        list-style-type: none;
+    }
+
+    nav li{
+        width: 7em;
+        padding: 0 1em 0 1em;
+        display: inline;
+    }
+
+
+    dt {
+        font-weight: bold;
+    }
+
+    footer {
+        font-size: .60em;
+        background-color: #88CBC4;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+    }
+
+
+
+    /* Class */
+    .studio {
+        color: #40407A;
+        font-style: italic;
+    }
+
+    #wrapper {
+        background-color: #F5F5F5;
+        padding: 2em;
+
+    }
+
+    .home {        /* home page, the header will be larger */
+        height: 20vh;
+        padding-left: 10%;
+        padding-top: 2em;
+        }
+
+    .content {      /* other pages, the header will be slightly smaller*/
+        height: 10vh;
+        padding-left: 8em;
+        padding-top: 5em;
+    }
+
+    /* #mathero {
+        background-image: url("assets/yogamat.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: block;
+        height: 300px;
+        padding-bottom: 1em;
+    }
+
+    #loungehero {
+        background-image: url("assets/yogalounge.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: block;
+        height: 300px;
+        padding-bottom: 1em;
+    } */
+
+    #mobile {
+        display: none;
+    }
+
+    #desktop {
+        display: inline;
+    }
+
+    #section {
+        padding-left: .5em;
+        padding-right: .5em;
+    }
+
+
+    /* #flow {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    } */
+
+    /* #clear {
+        clear: both;
+    } */
+
+    /* global property*/
+    * {box-sizing: border-box;}
+
+}

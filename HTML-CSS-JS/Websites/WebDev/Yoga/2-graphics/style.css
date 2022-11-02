@@ -1,0 +1,68 @@
+/*Comment*/
+html, body {
+    /*background-color: thistle;*/
+    background-color: #F5F5F5;
+    color: #2D402D;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+header {
+    background-image: url(assets/lilyheader.jpg);
+    text-align: left;
+    background-size: 100% 100%; /*strech the image to 100% of the parent*/
+    height: 150px;
+}
+
+h1 {
+    line-height: 200%;
+    padding-top: 50px;
+    padding-left: 2em;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+nav {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #88CBC4;
+    font-size: .60em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+/* Class */
+.studio {
+    color: #40407A;
+    font-style: italic;
+}
+
+#wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    background-color: #F5F5F5;
+    min-width: 1000px;
+    max-width: 1280px;
+}
+
+img {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+#hero {
+    text-align: center;
+}
+
+main {
+    padding-left: 2em;
+    padding-right: 2em;
+    display: block;
+}
