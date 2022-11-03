@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SciFiName</string>
+    <string name="title">Welcome to the SciFi Name Generator</string>
+</resources>

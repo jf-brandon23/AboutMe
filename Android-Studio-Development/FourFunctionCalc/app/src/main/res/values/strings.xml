@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FourFunctionCalculator</string>
+    <string name="enter_number">Enter a Number</string>
+    <string name="enter_number2">Enter a Number</string>
+</resources>
