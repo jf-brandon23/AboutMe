@@ -4,8 +4,7 @@
 ## Summary
 ---
 <p>My name is Brandon Juarez Fernandez. 
-I attend Mount Vernon High School and Southern Indiana Career & Technical Center. 
-I am part of the Computer Science Class.
+I attend Mount Vernon High School and a part of the Computer Science program at Southern Indiana Career & Technical Center. 
 
 In my free time after school I march in Marching Band and act in the High School Play. 
 I'm currently planning on attending college for Website Design and Development, or Cyber Security. I am currently working on a website for a School Class to advertise and entice people to join the ranks. The website is currently under work in progress.</p>
@@ -24,7 +23,7 @@ _**Excellence is not an act but a Habit**_
 
 ## My Favorite Websites
 
-###Some Websites I occasional visit/use.
+### Some Websites I occasional visit/use.
 ---
 - [Web Skills](https://andreasbm.github.io/web-skills/)
 - [Sass](https://sass-lang.com/install)
